@@ -1,0 +1,6 @@
+event_id,user_id,event_type,event_date,city_from,city_to
+1,1,Move House,2024-03-15,Hamilton,Auckland
+2,2,Move House,2024-06-10,Auckland,Wellington
+3,3,Move House,2024-02-20,Christchurch,Hamilton
+4,4,Move House,2024-05-05,Tauranga,Auckland
+5,5,Move House,2024-09-01,Dunedin,Christchurch
